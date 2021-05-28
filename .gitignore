@@ -20,6 +20,7 @@ donotupload.ipynb
 *.zip
 *.csv.gz
 *.gif
+*.png
 *.xml
 *.gz
 
